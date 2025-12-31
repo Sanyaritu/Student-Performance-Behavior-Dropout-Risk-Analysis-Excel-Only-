@@ -1,2 +1,19 @@
-# Student-Performance-Behavior-Dropout-Risk-Analysis-Excel-Only-
-Educational institutions often fail to identify at-risk students early, leading to poor performance and dropouts.  Goal: Use student academic + behavioral data to:  Predict dropout risk,  Identify performance drivers, Suggest data-backed interventions
+# 📊 Student Performance & Dropout Risk Analysis (Excel Only)
+
+## Overview
+An Excel-only data science project focused on identifying academic risk factors using student data.
+
+## Tools
+- Microsoft Excel
+- Pivot Tables
+- Feature Engineering
+- Dashboarding
+
+## Key Highlights
+- Rule-based risk prediction model
+- Feature engineering using Excel formulas
+- Interactive analytical dashboard
+
+## Use Case
+Early identification of at-risk students to enable targeted academic intervention.
+
